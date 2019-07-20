@@ -1,4 +1,4 @@
-# Naive Bayes with Kotlin
+# Naive Bayes Text Classification with Kotlin
 
     val dataSet = DataSet()
     val classificator = TextClassificator()
