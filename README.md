@@ -8,3 +8,5 @@
     val quote = "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage"
 
     print(classificator.classifyByCategory(quote))
+    
+    // output -> Love
